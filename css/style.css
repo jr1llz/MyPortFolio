@@ -101,6 +101,7 @@ ul {
 
 .bold {
   color: var(--heading-color);
+  font-weight: 500;
 }
 
 .cta {
@@ -608,6 +609,11 @@ body.open .hamburger .bar:last-child {
 
 .skill-text {
   color: #212121;
+  font-weight: 500;
+}
+
+.text {
+  font-weight: 300;
 }
 
 .services .container {
